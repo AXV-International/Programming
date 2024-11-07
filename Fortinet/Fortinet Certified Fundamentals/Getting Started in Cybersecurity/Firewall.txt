@@ -1,0 +1,11 @@
+ _____ _                   _ _ 
+|   __|_|___ ___ _ _ _ ___| | |
+|   __| |  _| -_| | | | .'| | |
+|__|  |_|_| |___|_____|__,|_|_|
+                                                                                                                        
+The evolution of firewalls
+- Packet filter/stateless firewall
+  => Implicit policy = is a policy applied if no other match is found in the firewall policy list.
+- Stateful firewall
+- Third-generation firewall
+- Next-generation firewall (NGFW)

@@ -1,0 +1,14 @@
+ _____     _                 _   _            _____           _                   _       _     
+|   | |___| |_ _ _ _ ___ ___| |_|_|___ ___   |   __|_ _ ___ _| |___ _____ ___ ___| |_ ___| |___ 
+| | | | -_|  _| | | | . |  _| '_| |   | . |  |   __| | |   | . | .'|     | -_|   |  _| .'| |_ -|
+|_|___|___|_| |_____|___|_| |_,_|_|_|_|_  |  |__|  |___|_|_|___|__,|_|_|_|___|_|_|_| |__,|_|___|
+                                      |___|                                                     
+=======================================================================================================================
+LAN/WLAN
+- LAN (Local Area Network) = Menggunakan konektivitas kabel antara perangkat untuk terhubung
+- WLAN (Wireless Local Area Network) = Menggunakan konektivitas gelombang radio/frekuensi radio antar perangkat untuk terhubung
+
+* LAN dan WLAN dioperasikan dengan ruang lingkup yang terbatas yaitu hanya pada local dan memungkinkan beberapa pengguna untuk memiliki akses berbagi media dengan media bandwith yang tinggi. LAN dan WLAN dikontrol secara pribadi dibawah administrasi lokal dan memberikan banyak keuntungan untuk perusahaan, seperti:
+	1. Meningkatkan ketersediaan informasi
+	2. Meningkatkan produktivitas
+	3. Dapat menghemat pengeluaran biaya
