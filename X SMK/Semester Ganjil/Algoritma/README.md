@@ -12,5 +12,7 @@
   5. Effectiveness = Setiap algoritma diharapkan memiliki sifat efektif, setiap langkah harus sederhana sehingga dapat dikerjakan dalam rentang waktu yang masuk akal.
 - Metode penyajian algoritma
 
+  <img src='https://github.com/AXV-International/Programming/blob/d9c36db467730e2adea6aed6d112b5eb1a448cd0/X%20SMK/Semester%20Ganjil/Algoritma/Screenshot_9.png'>
   
-- 
+- Penulisan algoritma
+  
