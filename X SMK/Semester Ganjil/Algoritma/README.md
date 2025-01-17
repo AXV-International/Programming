@@ -12,5 +12,5 @@
   5. Effectiveness = Setiap algoritma diharapkan memiliki sifat efektif, setiap langkah harus sederhana sehingga dapat dikerjakan dalam rentang waktu yang masuk akal.
 - Metode penyajian algoritma
 
-  Konsep Logika dan Matematika $\leftrightarrow$
+  
 - 
